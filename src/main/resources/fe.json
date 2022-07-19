@@ -1,0 +1,12 @@
+{
+  "motorisation-moyenne": 0.218,
+  "motorisation-E85":0.147,
+  "motorisation-essence": 0.223,
+  "motorisation-diesel": 0.212,
+  "motorisation-GNV": 0.221,
+  "motorisation-GPL": 0.217,
+  "metro-tramway":0.00416,
+  "bus": 0.130,
+  "teletravail": 20.7,
+  "papier": 0.919
+}
